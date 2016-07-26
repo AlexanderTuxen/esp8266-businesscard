@@ -1587,4 +1587,15 @@ Text Label 6750 4300 0    60   ~ 0
 rxd
 Text Label 6750 4200 0    60   ~ 0
 txd
+$Comp
+L +3.3V #PWR?
+U 1 1 57952999
+P 4950 4400
+F 0 "#PWR?" H 4950 4250 50  0001 C CNN
+F 1 "+3.3V" V 4965 4528 50  0000 L CNN
+F 2 "" H 4950 4400 50  0000 C CNN
+F 3 "" H 4950 4400 50  0000 C CNN
+	1    4950 4400
+	0    -1   -1   0   
+$EndComp
 $EndSCHEMATC
